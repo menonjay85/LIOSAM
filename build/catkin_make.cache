@@ -1,0 +1,2 @@
+robot_gazebo/LIO-SAM:robot_gazebo/fdilink_ahrs/fdilink_ahrs:robot_gazebo/pcd2pgm:robot_gazebo/realsense_ros_gazebo:robot_gazebo/scout_gazebo:robot_gazebo/scout_slam_nav:robot_gazebo/velodyne_simulator/velodyne_description:robot_gazebo/velodyne_simulator/velodyne_gazebo_plugins:robot_gazebo/velodyne_simulator/velodyne_simulator:waypoint_pkg
+-DCATKIN_DEVEL_PREFIX=/home/menonjay/robot_ws_1/devel -DCMAKE_INSTALL_PREFIX=/home/menonjay/robot_ws_1/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/menonjay/robot_ws_1/devel
+
+Name: scout_slam_nav
+Description: Description of scout_slam_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

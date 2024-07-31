@@ -8,4 +8,4 @@ Also please find these below files that have been missed due to size constraint 
 "build/robot_gazebo/LIO-SAM/CMakeFiles/lio_sam_imuPreintegration.dir/src/imuPreintegration.cpp.o"\
 "devel/lib/lio_sam/lio_sam_mapOptmization"\
 "src/robot_gazebo/fdilink_ahrs/fdilink_ahrs/data/gps_data.bag"\
-"build/robot_gazebo/LIO-SAM/CMakeFiles/lio_sam_mapOptmization.dir/src/mapOptmization.cpp.o"\
+"build/robot_gazebo/LIO-SAM/CMakeFiles/lio_sam_mapOptmization.dir/src/mapOptmization.cpp.o"

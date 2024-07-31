@@ -12,3 +12,6 @@ https://drive.google.com/drive/folders/1xFRH7WxEOgO7WQvZsDazcduJGH1s_SA6?usp=sha
 "devel/lib/lio_sam/lio_sam_mapOptmization"\
 "src/robot_gazebo/fdilink_ahrs/fdilink_ahrs/data/gps_data.bag"\
 "build/robot_gazebo/LIO-SAM/CMakeFiles/lio_sam_mapOptmization.dir/src/mapOptmization.cpp.o"
+
+\\
+I hope you find this presentation useful as well: https://docs.google.com/presentation/d/1CJVPXP0JBlhkUzn0AiCHb0nr4TPdCGXgMYWDUUHfBvU/edit?usp=sharing
